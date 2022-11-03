@@ -7,8 +7,8 @@ chord.py E m9 <br>
 chord.py G 6 <br>
 chord.py D m7b5 <br>
  <br>
-The previous 4 commands would display the following chords: <br>
-C Major 7 <br>
-E minor 9 <br>
-G 6 <br>
-D minor 7 flat 5 <br>
+The previous 4 commands would display the following outputs: <br>
+C E G B <br>
+E G B D F# <br>
+G B D E <br>
+D F G# C <br>
